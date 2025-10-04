@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chikudj!
+# 👋 Hi, I'm PIRATE_DJ !!!
 
 Welcome to my GitHub profile! Here you'll find my latest work, experiments, and contributions in the world of software development.
 
